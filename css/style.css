@@ -17,7 +17,6 @@ html {
 }
 
 body {
-  font-family: "fonts1", sans-serif;
   background-color: var(--bg);
   color: #fff;
 }
@@ -128,7 +127,6 @@ body {
 }
 
 .hero .content p {
-  font-family: fonts1;
   font-size: 1.6rem;
   margin-top: 1rem;
   line-height: 1.4;
